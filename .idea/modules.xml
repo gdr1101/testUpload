@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gdr_maven_dao/gdr_maven_dao.iml" filepath="$PROJECT_DIR$/gdr_maven_dao/gdr_maven_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testApp1/testApp1.iml" filepath="$PROJECT_DIR$/testApp1/testApp1.iml" />
+    </modules>
+  </component>
+</project>
